@@ -1,3 +1,19 @@
+MONDAY
 Kastner Keynote:
 Mamajek-Bell 2014 review of ages & papers related
 Close binary + disk Valere Rapson Kastner Andrews ApJL 2015
+Mamajek Focus:
+B8 (old stars) all over the FOV
+Membership selection - Spaghetti method, Convergent point method (will be outdated after GAIA)
+Small v dispersion for NMG, near LSR
+V-K MV color mag diagram for zams
+32 Ori - 20 Myr @ 90 pc
+\eta Cha + ejected members 9 Myr
+Alessi 13 (Brazilian amateur astronomer) 500 Myr
+Castor MG? Fomalhaut+Vega; \Delta v=11 km/s - probably not a common origin
+Sco-Cen 10^4 stars, 110-170 pc - Age substructure (gradient); Mark Pecaut PhD thesis
+Lison Malo:
+Statistics+Membership
+Velocity+Position;Photometry;Age (rotation, X, U, Lithium, Disk)
+V+P: SACY (Torres 2006,2008)
+David Montes:
