@@ -1,3 +1,6 @@
+IAU Symposium 314
+Young Stars and their Planets
+
 MONDAY
 Kastner Keynote:
 Mamajek-Bell 2014 review of ages & papers related
@@ -17,3 +20,47 @@ Statistics+Membership
 Velocity+Position;Photometry;Age (rotation, X, U, Lithium, Disk)
 V+P: SACY (Torres 2006,2008)
 David Montes:
+Chemical tagging based on metallicity
+Marc Pinsonneault:
+Age diagnostic - Lithium (GKM) is sign of youth
+Onset of Li depletion in BD (20-100 Myr!)
+Rotation -> problematic for younger stars - Epstein & MP 2014
+Breakdown of models - B fields, Rotation, Star spots, might not be as important to 1st order? 
+B fields might affect Li dispersion and thus isochrones e.g. Pleiades (star spots)
+Importance in time domain - Observe oscillation to characterize stars - Asteroseismology even for protostars (K2!)
+Cameron Bell:
+Trouble with Isochrones (wide dispersion) Stauffer at al 2007 + more recent papers
+Models at http://www.astro.ex.ac.uk/people/timn/isochrones/
+32 Ori 22\pm3 Myr
+Tuc-Hpr 44 5
+Columba 46 8
+Carina 36 8
+Beta Pic 23 3
+Evgenya Shkolnik:
+Search for YS in GALEX+ROSAT NUV+FUV+X-rays
+NUV/J vs J for YS < 25 pc
+Li - age; K surf. gravity
+New Tuc-Hor Members - inactive
+New work on EUV prediction from GALEX data
+Questions: H alpha breakdown for other spectral indices? Water delivery in planetary atmospheres? Ciesla work
+Jonathan Gagne:
+BANYAN online tool for Bayesian identification of YMG members in XYZUVW space
+Brown stars (many BD detected in Tuc-Hor)
+L/T transition in the IR?
+Companions - BASS survey -> colder and colder stars > L5 in literature (T dwarf)
+Simon Murphy:
+Sco-Cen -> UCL LCC understudied - Age spreads, substructure
+JASoN Survey -> Bayesian approach using proper motions from UCAC4 and SPM4: photometry + spectroscopy
+Song et al 2012 - Ages of LCC UCL and Beta Pic
+Rebeca Azulay
+VLBI program (Australia) phase reference for observing AB Doradus (two components)
+
+
+
+Look at:
+Baraffe & Chabrier 20?? Role of accretion - Ages
+Malo 2014 Effects of B field in PMS evolution - Li depletion
+Shkolnik 2011 UV - GALEX sample + H alpha analysis for M Dwarfs
+Kraus, Shkolnik et al 2014 - New Tuc-Hor Members
+Shkolnik 2014 UV vs. age
+
