@@ -52,8 +52,50 @@ Simon Murphy:
 Sco-Cen -> UCL LCC understudied - Age spreads, substructure
 JASoN Survey -> Bayesian approach using proper motions from UCAC4 and SPM4: photometry + spectroscopy
 Song et al 2012 - Ages of LCC UCL and Beta Pic
-Rebeca Azulay
-VLBI program (Australia) phase reference for observing AB Doradus (two components)
+Rebeca Azulay:
+VLBI program (Valencia, Spain+Australia) phase reference for observing AB Doradus (two components)
+
+TUESDAY
+Sean Matt:
+Gallet & Bouvier 2010 - Dependence of rotation evolution for different mass stars.
+Not solar wind (1e6 times needed) probably star-disk interaction
+Matt et al 2014 movie, spindown of higher mass stars, slower for low-mass stars
+Saturation threshold for torque(?) 
+Need scaling of mass loss rate+B fields, direct measurements of dM/dt
+Core envelope decoupling could explain lack of slow, low-mass rotating stars
+Gaitee Hussain:
+Transition from dipolar fields into toroidal fields just as radiative core sets for M dwarfs with not-so-low masses.
+Magnetic cycles might play a role?
+Lucas Cieza:
+Ribas 2015 - Mass dependence of dissipation timescales
+80% of nearby disks have all-lambda SED
+20% are transitional disks
+Sebastian Daemgen:
+Measure dust mass with ALMA
+Andrews 2013 - Disk mass dependence on stellar mas
+197 sources w/ Spitzer - Mathews et al 2012
+Binaries disks are shorter lived than singles
+Undetected binary companions may change shape of lifetime trend
+Kraus 2012 makes a lifetime curve w/ singles -> above all-stars curve, must start from 100% disk fraction for young, nearby stars.
+Dust > Gas for binaries
+Nienke van der Marel:
+Causes of Cavity clearing - Grain Growth, Photoevaporation, Companion, Deadzones+Instabilities
+Drag forces = Dust trap for medium-sized particles
+Can be created via density or viscosity gradients
+DALI - Tool for CO emission modeling - van der Marel 2015
+Density is dropped by a factor 10
+Karin Öberg:
+TW Hydra - not necessarily a model system
+Cold dust grains can be amassed near snowlines
+Local setting of C/O ratio can depend on snowline
+N2H+; J=4-3 tracer of CO (or lack thereof)
+17 K freeze-out temperature for CO in TW Hya
+Freeze-out temp. can change depending on local conditions
+Merchantz+Cleeves: CO to CO grains
+Detection of C2H in TW Hya (small C chains)
+Detection of CH3CN in MWC480
+Gilles Chabrier:
+
 
 
 
