@@ -94,7 +94,67 @@ Freeze-out temp. can change depending on local conditions
 Merchantz+Cleeves: CO to CO grains
 Detection of C2H in TW Hya (small C chains)
 Detection of CH3CN in MWC480
+
+THURSDAY
 Gilles Chabrier:
+Problem of Equation of State - Difficult to determine exoplanet internal structure
+Experiments to determine Density vs. T to probe internal conditions of exoplanets and stars
+Wilson & Mitzler 2012,2013 - Water is liquid & soluble in metallic hydrogen -> liquid core in Jovian planets + diffusive and convective regions
+Saturn is much brighter than expected for its age -> Explained partly by convection Chabrier Nature Geosciences
+8 MJup is the largest planet, and 5 MJup BD -> No separate regimes (overlapping mass)
+No D burning boundary should be used -> Non observable
+Trent Dupuy:
+Cloudy models / Cloud free models for planets -> young / old BDs? Hybrid models
+M/L model taking this into account
+Get dynamical masses from binary systems to test for M/L diagram
+M+L+Cloud fraction instead of M+L only!
+Adam Frank:
+Stellar winds can evaporate planets, Bear simulation
+Andrew Youdin:
+Planetesimal formation
+Batygin Laughlin 2015 - log map of Kepler planets
+In situ - Hansen Murray 2012
+Radial drift of planetesimals - Chatterjee Tan 2014
+Migrated planets - Mordasini
+10^33 mass growth from dust to planetasimals
+10^11 from planetesimal to planet
+gas drag=50m/s -> 100 yr radial drift from 1-0 AU
+Youdin 2010 review of planetesimal growth
+Particle concentration 
+- Static concentration -> dust trap (vortex?) - Requires a precursor planet
+- Passively dynamic -> Turbulent concentration - Pan 2011, Hopkins 2014 (too brief)
+- Spontaneous -> streaming instability - Johansen & Youdin 2007
+Ingredients for streaming instability - Two way-drag forces (back reactions between gas and dust)+Radial pressure gradient
+It works in Pencil code! Search for Youdin shearing box
+Add gravitational self-collapse -> Formation of 100+ km objects
+Need the appropriate aerodynamics: Gas/dust density similar to 0.02 + not too strong pressure gradient + optimal coupling grain size
+Boundary conditions are problematic -> Dynamic mesh?
+Secular gravitational instabilities - HL Tau?
+Blum et al 2014 Comets are formed in instabilities
+Aerodynamic pebble accretion - Meteoritic accretion - Lambrechts & Johansen 2012
+
+FRIDAY
+Michael Ireland:
+<1 mas resolution for planet formation in disks -> Circumplanetary disk @ Hill radius
+GPI/SPHERE, LSST, JWST -> Answers via imaging, not spectroscopy
+Solution 1 - 15 IR telescopes @ 10 km baseline
+Solution 2 - Heterodyne interferometry - Laser Frequency Combs (VLTI)
+Solution 3 - Space based interferometry
+www.planetformationimager.org
+Sarah Martell:
+Ground Based Spectroscopic Surveys
+APOGEE + APOGEE-2 NIR 300k stars
+WEAVE, 4MOST, FunnelWeb
+Chris Tinney: 
+Slow fiber positioning forbids bright star surveys in Multi-Object Spectroscopy
+Order of minutes observations
+TAIPAN - for galaxy surveys
+FunnelWeb = TAIPAN when the moon is up @ UKST
+Catalogue of the 21st century in about 3 yr - 10k stars
+http://funnel-web.wikispaces.com
+
+
+
 
 
 
