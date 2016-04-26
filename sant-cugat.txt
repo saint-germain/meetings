@@ -1,0 +1,31 @@
+M. Padovani: CR shocks —> TD chemistry + trapping
+
+J. Simon: ATHENA code for planetesimal formation (using FFT). Also for planetarium shows! Planetesimal mass function! dN/dM vs. M (or R)
+
+Z. Leinhardt: % of collisions (type of process) vs. number of collisions in n-body simulations. Separate embryos from planetesimals
+
+C. Ormel: Stokes parameter: stopping time/encounter time. St<1 == pebble accretion. Pebble accretion radius formula dep. on sweeping velocity (<vkep).
+
+S. Desch: 3 Myr, 170 K, 2.7 AU snowline for meteorites. Hard to explain conditions? IS UV causes gas to move outward, depleting the "hard" snowline of H2O to freeze and keeping ice out(?)
+
+C. Eistrup: Nothing happens with MC conditions + low ionization rate
+
+B. Ercolano: 4 week workshop in 2017 (Deadline: 29 Aug 2016) http://www.munich-iapp.de/scientific-programme/programmes-2017/protoplanetary-disks/?L=%2Fproc%2Fself%2Fenviron 
+
+A. Shannon: Grand Tack - Moving Jupiter by Walsh et al 2011,2012
+
+R. Dong: Linear theory (Goldreich & Tremaine) 1 arm = 1 planet. Also- Gravitational instabilities can explain shape of arms. Keck- Possible detection of extrasolar planet exactly where linear theory predicts! More observations are required. Jansen+16 show arms rotating in different directions. MWC 758!
+
+HL Tau: 1 Myr \pm 100 kyr. 
+
+L. Rogers: 2015 posterior for rocky planet formation vs. radius. Most 1.6 Re planets are not rocky. TESS, CHEOPS,PLATO+ground based. This will get much better. Simulate the posteriors for all important parameters, recover initial values.
+
+K. Kratter: Gravitational instability CAN make planets (around eccentric binaries). However, binary or triple star systems are also likely to form.
+
+R. Pudritz: Dead zone boundaries, pressure gradients in general act as planet traps. CRI will matter. Hasegawa & Pudritz 2013 evolutionary tracks for planets. Super-earths are planets for which there is no gas left in the disk to accrete. Alessi Pudritz Cridland -> simulating planet distributions based on CRI rates. HSC geochemistry equilibrium code for minerals (35 mineral species).
+
+A. Collier-Cameron: Struve 1952 paper (1st cite 30+ yrs later)
+
+B. Bitsch: Bitsch + Johansen 2016 effect of water on opacity! Transition at water ice line
+
+Ideas: Montecarlo for CRUV rates. Check for X-ray physics in ProDiMo. 
