@@ -13,15 +13,15 @@
 ### Justificación de horas para cada integrante
 - El plan de trabajo (con horas/semana) debe ser socializado y aprobado por consenso en reunión de grupo.
 - Los proyectos y actividades propuestos deben contribuir a la producción de los integrantes, a los índices de clasificación de grupos de Colciencias y a los lineamientos internos de la Universidad.
-- La cantidad de horas/semana debe ser proporcional a la actividad realizada y al número de participantes.
-- El comité del investigación o el jefe inmediato en el departamento debe aprobar el plan de trabajo y las horas/semana dedicadas a investigación para el grupo.
-    - En caso de dificultades con este proceso, el grupo solicitará una reunión con el comité de investigación ó director de departamento.
+- La cantidad de horas/semana debe ser proporcional a la actividad realizada y acorde con el número de participantes.
+- El comité del investigación o el jefe inmediato en el departamento/dependencia debe aprobar el plan de trabajo y las horas/semana dedicadas a investigación para el grupo.
+    - En caso de dificultades con este proceso, el grupo solicitará una reunión con el comité de investigación ó director de departamento/dependencia.
 - El máximo de horas/semana para semilleros nuevos es de 2 horas/semana.
 - El máximo de horas/semana para otras actividades deben seguir los lineamientos de la Vicerrectoría de Investigación.
 
 ### Casos especiales
 - Cualquier integrante activo puede recomendar a un candidato. Esta recomendación será considerada con el peso que decida la persona que haga la recomendación.
-- Cualquier integrante puede vetar el ingreso de un candidato por razones personales, previa discusión en reunión de grupo.
+- Cualquier integrante puede vetar el ingreso de un candidato por razones personales o profesionales, previa discusión en reunión de grupo.
 - Por orden directa de algún miembro del comité de I+D+i de la Universidad el ingreso de un nuevo integrante será automático.
 
 
@@ -37,8 +37,8 @@
     Universidad.
     - Los productos resultados de un plan de trabajo aprobado por el grupo deben ser vinculados al GrupLAC del grupo. 
     **LA**
-    - Si el cumplimiento de alguna actividad es verificado por una persona externa al grupo, el líder del grupo puede
-    pedir un concepto de cumplimiento a esa persona externa en cualquier momento.
+    - Si el cumplimiento de alguna actividad es verificado por una persona externa al grupo, el líder del grupo o un integrante 
+    delegado por el mismo puede pedir un concepto de cumplimiento a esa persona externa en cualquier momento.
     - El incumplimiento injustificado del plan de trabajo conlleva una llamada de atención. **LA**.
 - Asistir a las actividades del grupo según la asignación horaria.
     - Actividades: Reuniones, Coloquios, Seminarios, Capacitaciones.
@@ -62,7 +62,7 @@
     - Eventualidades comunicadas luego de este tiempo no podrán justificar el incumplimiento de actividades.
     **LA**
     - Integrantes en licencia deben hacer esa actualización por lo menos una vez al semestre de manera verbal o por
-    escrito con otro integrante del grupo.
+    escrito con otro integrante del grupo, quien deberá comunicarla al líder del grupo.
 - Actualizar el CvLAC.
     - Los nuevos productos deben ser registrados en el CvLAC por lo menos dos veces al año y en épocas de
     convocatorias de clasificación de grupos/investigadores de Colciencias. **LA**.
@@ -73,10 +73,11 @@
     estipulado en la solicitud, con un máximo (por defecto) de 2 semanas. **LA**.
 - Reportar ausencias.
     - Los integrantes deben reportar ausencias prolongadas (viajes, eventos, fuerza mayor), verbalmente o por escrito
-    a algún integrante activo.
+    a algún integrante activo y este deber comunicarla al líder de grupo.
     - Estas ausencias deben ser comunicadas en las reuniones del grupo. **LA**
 - Seguir el conducto regular.
     - El conducto regular oficial es:
+        - Comunicación directa entre integrantes (en caso de diferencias)
         - Intervención verbal en reuniones de grupo.
         - Comunicación escrita al líder de grupo.
         - Comunicación a comité de investigación de departamento.
@@ -94,7 +95,8 @@
 
 - Convocar reuniones.
     - Cualquier integrante tiene derecho a convocar una reunión de grupo en los horarios acordados cada semestre
-    para comunicarse con el grupo.
+    para comunicarse con el grupo. 
+    - Reuniones fuera de estos horarios serán consideradas, y si hay consenso se realizarán.
     - Las demoras por fuerza mayor en la organización de la reunión no contarán en los tiempos considerados para
     llamados de atención.
 - Solicitar ayuda al grupo.
@@ -116,8 +118,9 @@
     - Las demoras ocasionadas por ausencias justificadas a tiempo no serán tenidas en cuenta en los tiempos 
     considerados para llamados de atención.
 - Suspensión voluntaria.
-    - Cualquier integrante puede pedir la suspensión indefinida de su pertenencia al grupo, previa discusión en 
+    - Cualquier integrante puede pedir la suspensión definida o indefinida de su pertenencia al grupo, previa discusión en 
     reunión de grupo.
+    - En estos casos el reintegro será inmediato y/o de mutuo acuerdo con el integrante en suspensión voluntaria y el grupo.
 - Licencia.
     - Personas en licencia por estudio/trabajo pueden ser eximidas de algunas responsabilidades, previa discusión en
     reunión de grupo.
@@ -128,7 +131,7 @@
 ### Retiro del grupo
 
 - Todos los retiros deben ser comunicados en reunión de grupo y aprobados por consenso.
-- Un integrante puede pedir ser retirado del grupo de manera voluntaria, pero sus productos no podrán ser retirados de bases de datos ni del GrupLAC.
+- Un integrante puede pedir ser retirado del grupo de manera voluntaria, pero sus productos no podrán ser retirados de bases de datos ni del GrupLAC por políticas del grupo y de Colciencias.
 - Los integrantes que reciban más de n llamados de atención en un tiempo t pueden ser considerados en retiro voluntario y serán retirados de las bases de datos y del GrupLAC.
 - El reintegro sólo se considerará un semestre después de la fecha de retiro del grupo. Para esto debe seguirse el proceso normal de ingreso.
  
@@ -142,9 +145,9 @@
 - El líder de grupo se elegirá por consenso en reunión de grupo entre los integrantes activos.
 - El líder de grupo será el primer responsable de los deberes del grupo.
 - El incumplimiento de estos deberes conlleva llamados de atención.
-- La dirección de grupo puede cambiar por consenso en reunión de grupo.
-- La dirección de grupo es por término indefinido.
-- La dirección de grupo es una labor de gestión que requiere 8 horas/semana. 
+- El líder de grupo puede cambiar por consenso en reunión de grupo.
+- El nombramiento de líder de grupo es por término indefinido.
+- Las actividades del líder de grupo son comprendias como labores de gestión que requieren 8 horas/semana. 
 
 
 ## Deberes del grupo
@@ -166,7 +169,7 @@
     - El grupo debe facilitar la comunicación de integrantes del grupo con miembros del comité de I+D+i.
 - GrupLAC.
     - El líder de grupo debe mantener actualizado el GrupLAC y unir productos a los proyectos del grupo.
-    - Los integrantes del grupo deben apoyar a l
+    - Los integrantes del grupo deben apoyar al líder del grupo en épocas de convocatorias y/o requerimientos documentales.
 - Llamados de atención.
     - Los llamados de atención deben ser comunicados en reunión de grupo.
     - Los llamados de atención se pueden hacer por solicitud de cualquier miembro dentro de los parámetros del
@@ -186,7 +189,7 @@ Si se presenta un conflicto o una situación de trato irrespetuoso o no equitati
 
 - Ambas partes serán escuchadas de manera equitativa.
 - Cualquier integrante puede solicitar que se registre un llamado de atención.
-- Si se llega un consenso, se registrará un llamado de atención.
+- Si la situación lo amerita y si hay consenso sobre esto, se registrará un llamado de atención.
 
 
 ## Reuniones
@@ -197,7 +200,7 @@ Si se presenta un conflicto o una situación de trato irrespetuoso o no equitati
 - Se pasará una hoja de asistencia.
 - Los integrantes deben respetar el tiempo de las reuniones de grupo.
 - Si un integrante acapara un solo tema (aun si la agenda lo permite) cualquier integrante puede pedir una Moción de Tiempo para limitar el tiempo de la intervención, si los demás integrantes están de acuerdo.
-- Cualquier integrante puede moderar la reunión, si los demás integrantes están de acuerdo.
+- Cualquier integrante puede presidir la reunión a manera de moderador, si los demás integrantes están de acuerdo.
 - Al inicio de cada semestre se cuadrarán horarios adecuados para las reuniones que sean convenientes para la mayoría de integrantes.
 - Se hará un mínimo de 4 reuniones/semestre.
     
