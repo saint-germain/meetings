@@ -36,16 +36,16 @@
     - Los productos terminados deben estar documentados según los lineamientos de Colciencias o internos de la
     Universidad.
     - Los productos resultados de un plan de trabajo aprobado por el grupo deben ser vinculados al GrupLAC del grupo. 
-    **LA**
+    **Incumplimiento lleva a llamado de atención**
     - Si el cumplimiento de alguna actividad es verificado por una persona externa al grupo, el líder del grupo o un integrante 
     delegado por el mismo puede pedir un concepto de cumplimiento a esa persona externa en cualquier momento.
-    - El incumplimiento injustificado del plan de trabajo conlleva una llamada de atención. **LA**.
+    - El incumplimiento injustificado del plan de trabajo conlleva una llamada de atención. **Incumplimiento lleva a llamado de atención**.
 - Asistir a las actividades del grupo según la asignación horaria.
     - Actividades: Reuniones, Coloquios, Seminarios, Capacitaciones.
     - En caso de inasistencia, el integrante debe hacer una justificación verbal en la siguiente reunión
-    del grupo **a más tardar**.
+    del grupo **a más tardar**. 
     - En caso de inasistencia prolongada en más de tres actividades, el integrante debe hacer saber
-    las causas al líder del grupo **no más de una semana después de la última inasistencia**. **LA**.
+    las causas al líder del grupo **no más de una semana después de la última inasistencia**. **Incumplimiento lleva a llamado de atención**.
 - Representar el grupo.
     - Los integrantes deben representar al grupo y sus intereses en reuniones de departamento, reuniones de comité
     de investigación, eventos científicos, redes de conocimiento.
@@ -54,27 +54,27 @@
 - Comunicar el estado de actividades de investigación.
     - Los integrantes deben hacer actualizaciones sobre el estado de actividades de investigación del grupo de
     manera verbal en reuniones de grupo o por escrito al líder de grupo.
-    - Estas actualizaciones deben realizarse por lo menos seis veces al año (**tres veces al semestre**). **LA**
+    - Estas actualizaciones deben realizarse por lo menos seis veces al año (**tres veces al semestre**). **Incumplimiento lleva a llamado de atención**
     - Actividades de investigación: Semilleros, Dirección de Trabajos de Grado, Cursos, Proyectos de
     Investigación, Organización de Eventos, Participación en Redes.
     - Si se presentan dificultades en el desarrollo de actividades de investigación, se debe informar al grupo a
     más tardar un mes después de presentarse la dificultad.
     - Eventualidades comunicadas luego de este tiempo no podrán justificar el incumplimiento de actividades.
-    **LA**
+    **Incumplimiento lleva a llamado de atención**
     - Integrantes en licencia deben hacer esa actualización por lo menos una vez al semestre de manera verbal o por
     escrito con otro integrante del grupo, quien deberá comunicarla al líder del grupo.
 - Actualizar el CvLAC.
     - Los nuevos productos deben ser registrados en el CvLAC por lo menos dos veces al año y en épocas de
-    convocatorias de clasificación de grupos/investigadores de Colciencias. **LA**.
+    convocatorias de clasificación de grupos/investigadores de Colciencias. **Incumplimiento lleva a llamado de atención**.
     - Los integrantes deben aceptar la solicitud de vinculación de productos a GrupLAC cuando sean parte de un plan de 
-    trabajo aprobado. **LA**.
+    trabajo aprobado. **Incumplimiento lleva a llamado de atención**.
 - Entregar información cuando se requiera.
     - Solicitudes de información documental hechas por el líder del grupo deben ser respondidas en el tiempo
-    estipulado en la solicitud, con un máximo (por defecto) de 2 semanas. **LA**.
+    estipulado en la solicitud, con un máximo (por defecto) de 2 semanas. **Incumplimiento lleva a llamado de atención**.
 - Reportar ausencias.
     - Los integrantes deben reportar ausencias prolongadas (viajes, eventos, fuerza mayor), verbalmente o por escrito
     a algún integrante activo y este deber comunicarla al líder de grupo.
-    - Estas ausencias deben ser comunicadas en las reuniones del grupo. **LA**
+    - Estas ausencias deben ser comunicadas en las reuniones del grupo. **Incumplimiento lleva a llamado de atención**
 - Seguir el conducto regular.
     - El conducto regular oficial es:
         - Comunicación directa entre integrantes (en caso de diferencias)
@@ -89,8 +89,7 @@
     - Todos los integrantes deben ser equitativos y respetuosos en el trato mutuo.
 - Los integrantes que incumplan con los tiempos o actividades indicados en los items marcados con **LA** recibirán un llamado de atención cada vez que ocurra un incumplimiento.
 
-# Hasta Aquí Reunión Mayo 4
-                
+               
 ### Derechos 
 
 - Convocar reuniones.
@@ -113,7 +112,8 @@
     - Los integrantes pueden pedir la aplicación del reglamento vigente.
     - Durante las reuniones del grupo, los integrantes pueden ejercer su derecho al voto sobre temas que requieran
     consenso.
-    - Un integrante puede abstenerse de votar o puede votar en blanco.  
+    - Un integrante puede abstenerse de votar o puede votar en blanco.
+    - Un integrante puede enviar su voto por correo electrónico y será tomado en cuenta.
 - Ausencias.
     - Las demoras ocasionadas por ausencias justificadas a tiempo no serán tenidas en cuenta en los tiempos 
     considerados para llamados de atención.
@@ -130,9 +130,9 @@
  
 ### Retiro del grupo
 
-- Todos los retiros deben ser comunicados en reunión de grupo y aprobados por consenso.
+- Todos los retiros deben ser comunicados en reunión de grupo y aceptados por consenso.
 - Un integrante puede pedir ser retirado del grupo de manera voluntaria, pero sus productos no podrán ser retirados de bases de datos ni del GrupLAC por políticas del grupo y de Colciencias.
-- Los integrantes que reciban más de n llamados de atención en un tiempo t pueden ser considerados en retiro voluntario y serán retirados de las bases de datos y del GrupLAC.
+- Los integrantes que reciban más de 5 llamados de atención al semestre pueden ser considerados en retiro voluntario y serán retirados de las bases de datos y del GrupLAC.
 - El reintegro sólo se considerará un semestre después de la fecha de retiro del grupo. Para esto debe seguirse el proceso normal de ingreso.
  
 
@@ -144,10 +144,17 @@
 
 - El líder de grupo se elegirá por consenso en reunión de grupo entre los integrantes activos.
 - El líder de grupo será el primer responsable de los deberes del grupo.
-- El incumplimiento de estos deberes conlleva llamados de atención.
 - El líder de grupo puede cambiar por consenso en reunión de grupo.
 - El nombramiento de líder de grupo es por término indefinido.
-- Las actividades del líder de grupo son comprendias como labores de gestión que requieren 8 horas/semana. 
+- Las actividades del líder de grupo son comprendidas como labores de gestión que requieren 8 horas/semana. 
+
+#### Deberes del Líder
+
+- El líder de grupo debe comunicar a tiempo cualquier información que sea importante para el grupo.
+- El líder de grupo debe facilitar el acceso a las actas de reunión por lo menos una vez por semestre.
+- El líder de grupo debe tener un repositorio documental completo y organizado sobre actividades, productos, e
+    integrantes.
+- El incumplimiento de estos deberes conlleva llamados de atención.
 
 
 ## Deberes del grupo
@@ -156,11 +163,9 @@
     - Delegados del grupo asistirán a reuniones donde se requiera apoyo del grupo.
     - Los integrantes del grupo solicitarán apoyo a sus superiores directos para asistir a reuniones donde se requiera
     apoyo extraordinario.
-- Comunicar noticias, requerimientos y actividades.
-    - El líder de grupo debe comunicar a tiempo cualquier información que sea importante para el grupo.
+- Comunicar noticias, requerimientos y actividades
 - Documentar las reuniones.
     - El líder de grupo o un delegado voluntario harán actas con listas de asistencia de todas las reuniones de grupo.
-    - El líder de grupo debe socializar las actas de reunión por lo menos una vez por semestre.
 - Responder en plazos razonables.
     - El grupo no incurrirá en silencio administrativo respecto a solicitudes de los integrantes. 
     - Se da un plazo máximo de un mes calendario para dar una respuesta escrita por reunión de grupo (acta) o por
@@ -175,10 +180,8 @@
     - Los llamados de atención se pueden hacer por solicitud de cualquier miembro dentro de los parámetros del
     reglamento vigente.
 - Repositorio del grupo
-    - El líder de grupo debe tener un repositorio documental completo y organizado sobre actividades, productos, e
-    integrantes.
+    - Todos los miembros deben colaborar con la permanente actualización del repositorio.
 - Equidad
-    - El líder de grupo debe ser equitativo y justo en todos los procesos del grupo.
 - Reglamento.
     - Si cualquier integrante así lo solicita, el grupo debe hacer cumplir el reglamento vigente.
 
@@ -189,13 +192,14 @@ Si se presenta un conflicto o una situación de trato irrespetuoso o no equitati
 
 - Ambas partes serán escuchadas de manera equitativa.
 - Cualquier integrante puede solicitar que se registre un llamado de atención.
-- Si la situación lo amerita y si hay consenso sobre esto, se registrará un llamado de atención.
+- Si hay consenso sobre hacer un llamado de atención, se registrará un llamado de atención.
 
 
 ## Reuniones
 
-- Para tomar decisiones se requiere un quorum mínimo de X.
+- Para tomar decisiones se requiere un quorum mínimo de la mitad mas uno de los integrantes con actividad presencial en la Universidad.
 - Al inicio de cada reunión se comunicará el orden del día.
+- Si quedan tareas pendientes, revisar el acta anterior.
 - Se debe indicar quién escribirá el acta de la reunión.
 - Se pasará una hoja de asistencia.
 - Los integrantes deben respetar el tiempo de las reuniones de grupo.
@@ -203,8 +207,11 @@ Si se presenta un conflicto o una situación de trato irrespetuoso o no equitati
 - Cualquier integrante puede presidir la reunión a manera de moderador, si los demás integrantes están de acuerdo.
 - Al inicio de cada semestre se cuadrarán horarios adecuados para las reuniones que sean convenientes para la mayoría de integrantes.
 - Se hará un mínimo de 4 reuniones/semestre.
-    
-Ceder el voto?
+- No se puede ceder el voto bajo ninguna circunstancia.
+- En caso de falta de quórum, buscar los canales efectivos de comunicación para tomar decisiones urgentes cumpliendo el quórum actual.
+- Es posible asistir virtualmente a las reuniones.
+
+Pendiente: Fotos para el grupo e información personal
 
 ## Excepciones
 
