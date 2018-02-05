@@ -87,11 +87,23 @@
 	- Dataset - ALMA data cube eg w33A
 	- ML techniques applied
 
-- 
+#### Joe Fennell - Ag1
+
+- Physics for global food security problems
+- With Sarah Bridle (STFC Food Network)
+- Using multispectral satellite imaging
+- Weed mapping (Blackgrass in UK)
+- Precision agriculture in orchards
+- Imaging for pest tracking
+- Land cover classification -> Bird populations
+- CABI -> Pathways to impact
+
+#### Eliana Vásquez Osorio - Health
+
+- Image data mining for radio therapy treatment
+	- Improve survival rate by sparing a specific region of the heart
+
+
   
-
-
-
-  
-- BIOS scholarships should be among enrolled students for projects 
+- BIOS scholarships should be among already-enrolled students for projects 
 - Could we have slides
