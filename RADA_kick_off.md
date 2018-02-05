@@ -102,8 +102,3 @@
 
 - Image data mining for radio therapy treatment
 	- Improve survival rate by sparing a specific region of the heart
-
-
-  
-- BIOS scholarships should be among already-enrolled students for projects 
-- Could we have slides
