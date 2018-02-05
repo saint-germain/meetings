@@ -67,13 +67,31 @@
 - Facilities
   - 8 TB RAM, 532 TB storage
   - Video wall
+
+### Projects
+
+#### Roy Ruddle - Powerwall + RFI
+  
+- Procedure to remove radio noise (6 Mpx @BIOS)
+- Develop more robust data processing method
+- With Melvin Hoare and Javier Moldon
+- eMerlin (VLBI) data
+- Flagging (20% of the data)
+- Freq vs. Time (also polarization)
+
+#### Melvin Hoare - As1 + As2
+
+- Pattern finding in samples of spectroscopic data
+	- Locally Linear Embedding on spectra (Daniel et al 2011)
+	- Isomap (Sasdelli et al 2016)
+	- Dataset - ALMA data cube eg w33A
+	- ML techniques applied
+
+- 
   
 
 
-  
-
-
 
   
-
-Could we have slides
+- BIOS scholarships should be among enrolled students for projects 
+- Could we have slides
