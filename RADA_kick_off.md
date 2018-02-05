@@ -4,7 +4,7 @@
 
 ### Day 1
 
-#### Overview - Anna Scaife
+#### Overview - Anna Scaife - Manchester
 
 - Newton Fund delivery data for RADA Big Data is UK STFC (Astro-Particle-Nuclear).
 - Amount: GBP 370k
@@ -36,7 +36,7 @@
   - Duration of MSc is 1 yr, no courses, only research
   - Project distribution will likely be 1 He + 1 Ag + 4 As
   
-#### Context - Melvin Hoare
+#### Context - Melvin Hoare - Manchester
 
 - Newton Fund - funded projects 
   - Ghana (2014-2017 GBP 179k)
@@ -45,7 +45,29 @@
   - Latin America (MX+CO)
 - Goonhilly: first private DSN dish -> source of revenue
 - OAD - Development partners (Train the trainers)
+- Subjects reserved for the future
+  - Outreach, Teaching, Training
+  - Instrumentation
+  - Will be discussed within 
 
+### Colombian Partners
+
+#### Jaifa Mezher - Head of international office of MinTICs (with Ivan Castaño)
+ 
+ - Plan vive digital para la gente - Big Data policy.
+ 
+#### Jorge Caldas - CAOBA
+ 
+ - CAOBA already has 4 students - already locked funding and projects already underway
+ - Projects are not known at the moment
+ 
+#### BIOS
+
+- UNAL, UTP, and MinTICs are on the board of BIOS - students will have priority
+- Facilities
+  - 8 TB RAM, 532 TB storage
+  - Video wall
+  
 
 
   
