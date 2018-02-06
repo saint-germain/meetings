@@ -121,3 +121,12 @@
 - Submit documents for preliminary review of antenna status proposal + Parapat board review
 - Ministry is part of the board 
 - Parapat will decide how and if the antenna will be allowed to be converted
+- Added value will have to be proposed
+
+### Other projects
+
+- Low frequency arrays + GPS stations for geodesy
+	- Digital engineers
+	- Agricultural applications
+	- Ionospheric research
+	
