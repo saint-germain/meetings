@@ -102,3 +102,22 @@
 
 - Image data mining for radio therapy treatment
 	- Improve survival rate by sparing a specific region of the heart
+
+## Future Plans
+
+### Global Challenge Research Fund
+
+- Unlike NF it is not billateral
+- Some of the funding is destined to STFC
+- Dish conversion Workshop at Ghana
+- VLBI workshop at Mexico -> for regional VLBI networks
+- Economic Development Workshop
+
+### Status of Chocontá Antenna
+
+- A third party is using the antenna: Parapat
+	- Is part of a Telecom pension trust
+	- "Patrimonio Autónomo"
+- Submit documents for preliminary review of antenna status proposal + Parapat board review
+- Ministry is part of the board 
+- Parapat will decide how and if the antenna will be allowed to be converted
