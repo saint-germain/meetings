@@ -2,7 +2,7 @@
 
 [Radio Astronomy for Development in the Americas](http://rada-bigdata.com)
 
-### Day 1
+### Current proposal
 
 #### Overview - Anna Scaife - Manchester
 
