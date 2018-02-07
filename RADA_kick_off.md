@@ -15,14 +15,14 @@
 - (At least) one colombian co-supervisor per projects.
 - UManchester (+ Manchester Metro), ULeeds, UHertfordshire
 - Projects: 
-  - Pattern finding (Leeds, Manchester, ECCI)
+  - Pattern finding (Leeds, Manchester, ECCI) Germán Chaparro
   - RFI + Power Walls (Leeds) *Needs co-supervisor*
-  - Stellar Populations (Hertforshire + UdeA)
+  - Stellar Populations (Hertforshire + UdeA) Esteban Silva
   - Object detection, extraction, classification in radio astronomy (Hertfordshire) *Needs co-supervisor*
-  - Magnetic fields in Star-Forming Regions (UdeA)
-  - Image Data Mining for Radiotherapy (UManchester, EAFIT)
-  - Big data for beast cancer treatments (UManchester, EAFIT)
-  - Big Data Techniques for Satellite Image Analysis (UManchester)  *Needs co-supervisor*
+  - Magnetic fields in Star-Forming Regions (UdeA) - Esteban Silva
+  - Image Data Mining for Radiotherapy (UManchester, EAFIT) *Needs co-supervisor*
+  - Big data for beast cancer treatments (UManchester, EAFIT)*Needs co-supervisor*
+  - Big Data Techniques for Satellite Image Analysis (UManchester)  *Needs co-supervisor* -> Daniel Jiménez?
 - Long term ambitions 
   - From MSc to PhD
   - Broad balanced research netowrk
