@@ -27,7 +27,10 @@
 - Leandra: Mirar regiones donde falta tecnología e inclusión. Crear cultura de astronomía a través de la educación con participación activa. Astronomía ancestral.
 - Santiago: Ciencia para la reincorporación.
 - Miguel: Aprovechar Regiones Administrativas para generar alianzas. Proyecto Páramos - 52 municipios de 5 departamentos para llevar domo portátil, etc. 
-- Germán: Componente de Ciencias sociales/Econometría - Desarrollo -Impacto -> RCT para actividades sociales. Festivalitos ASASAC - OAD. Plan académico y plan ejecutivo. 
+- Germán: Componente de Ciencias sociales/Econometría - Desarrollo -Impacto -> RCT para actividades sociales. Festivalitos ASASAC - OAD. Plan académico y plan ejecutivo.
+- Angela: Plataforma para Red -> Felipe.
+
+- Poner fecha para sesión de trabajo sobre plan ejecutivo.
 
 
 
