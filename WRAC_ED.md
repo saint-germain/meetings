@@ -29,25 +29,18 @@
 - Edwin Quintero: informa que es completamente posible realizar un proyecto interdisciplinario entre las diferentes instituciones sobre radioastronomia, usando el componente pedagogico y didactico que puede usar la correlacion de manchas solares atraves de proyeccion usando binoculares y observaciones en radio con receptores supersid diseñados en la UTP. Se generarian guias de laboratorio y el objetivo seria motivar y promover la ciencias desde el optico y concatenar con la radioastronomia (receptor UTP, Software, antenas y guias de laboratorio, binoculares)
 - Juan Carlos: ofrece sus servicios para redaccion y logistica de las guias de laboratorio para los proyectos que se generaron.
 - German: presenta un instrumento para generar didacticas de aprendizaje a nivel educativo desde la perspectiva de radioastronomia, comparte los software de version libre que se pueden usar para visualizar emisaras de fm.(SDRSHARP). Resalta que es posible resaltar y potencializar habilidades creativas desde la radioastronomia.
-- marleny: ¿como estar en contacto continuo para compartir y apoyar los procesos de creacion de clubes cientificos?
+- Marleny: ¿como estar en contacto continuo para compartir y apoyar los procesos de creacion de clubes cientificos?
 - Felipe Gomez: generar una comunidad virtual, red social o blogs para generar canales de comunicacion entre los cientificos y los lideres de divulgacion como las profes. 
 planetario posee el poder de convocatoria.
-- German: propone espacio de cocreacion diferentes displinas con objetivos claros, desde el planetario para ciencia ciudadana, posee los espacios.
+- German: propone espacio de cocreacion diferentes displinas con objetivos claros, desde el planetario para ciencia ciudadana, posee los espacios. Iniciativa: Crear recursos educativos - manuales, donaciones, maquetas. Pensar más allá de lo matemático.
 - Marleny: informa sobre la participacion en el tf2 y propone compartir la informacion y los proyectos gestados en el encuentro de la ECCI.
 
 
 
 
 
-Mis ideas:
-Proyecto beta con datos solares -> Felipe
-Pensar más allá de lo matemático
-
-- 
 
 
-
-Iniciativa: Recursos educativos - manuales, donaciones, maquetas
 
 ## Recursos recopilados por Mauricio Vinasco:
 
