@@ -5,10 +5,10 @@
  - Web of Science - SCOPUS -> Get .ciw file from WoS
  - Citation report (interest by year) (save to EndNote desktop -> Full record)
  - java -jar VOSviewer.jar
- - With VOSViewer - create (map-biblio) (WoS) -> Choose Analysis (country, etc.) - Author -> Keyword Threshold
+ - With VOSViewer - create (map-biblio) (WoS) -> Choose Analysis (Co-occurrence, etc.) - Author Keyword Threshold
  - Save as GML (Graphic Markov Language). Problem: No direct way to look at individual papers
  
- ## Useful tpes of .gml
+ ## Useful tpes of .gml to create in VOSviewer
  
  - Co-cit+ref: most citations in total (references outside original .ciw file show up).
  - Bib+doc: most references to papers within original .ciw file (shared interests/most similar to your paper).
