@@ -1,8 +1,8 @@
 ## Day 2: Synergies and flagships
 
-- Vanessa McBride **OAD Volunteer Portal** ddi.lucas.in/OVP/
+- Vanessa McBride **OAD Volunteer Portal** 
   - Create task for attracting possible volunteers
-  - regional managers are admins
+  - Regional managers are admins
 
 - Lina Canas **OAO**
   - Increase NOC network
