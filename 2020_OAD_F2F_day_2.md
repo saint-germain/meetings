@@ -81,7 +81,17 @@
   - Livelihood = AirBnB, etc.
   - Evaluation: number of people, villages, tons of CO2 eliminated, new tourism destinations, revenue creation
   - Agreement with community to shut off lights for observations
-  - 3-day workshop from 42 people from villages --> selection??
+  - 3-day workshop from 42 people from villages --> groups of people are selected from each village
   - 10" Dobsonian telescopes
   - Community Astropark (Mandu) -> 14" telescope at site
   - Impact wheel: themes impacted
+  - Villages selected with tourism circuits in mind
+  - Outside handling of income, if villages don't do programmed maintenance, income can be cut down
+  
+- Ewine van Dishoeck **Funding**
+  - 40k/yr OAE workshops (Shaw/IAU)
+  - Needs to be done at highest levels (support needed)
+  - Build trust, small -> big
+  - Find right match depending on geo level of funding needs
+  
+
