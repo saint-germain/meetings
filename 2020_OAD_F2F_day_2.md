@@ -31,7 +31,7 @@
   - Not focused on informal astronomy education = outreach?
 
 - Tawanda Chingozha: AfD
-  - Intro to devecs for non social scientists course
+  - Intro to DevEcs for non social scientists course
   - Goal for 2021 GA next meeting: training for roads
 
 ### Flagship projects
@@ -94,4 +94,7 @@
   - Build trust, small -> big
   - Find right match depending on geo level of funding needs
   
+- Flagships and fundraising
+  - Expanding existing programs (GHE) into global initiatives
+  - Education/experiential tourism has shown growth throughout recessions
 
