@@ -49,3 +49,26 @@
   - They use images and symbols in their phone to communicate
   - Self learning is encouraged, but analysis needed of how illiterate people communicate through apps
   - Vocalize sms
+  
+- Lunch with OAE
+  - ROAD support for OAO applicants
+  - Help find candidates for stays at OAO HQ
+  - Disseminate "Meet an IAU Astronomer" initiative
+
+- SAEON **Open data platform for decision-making**
+
+- SADILAR **Digital humanities - language resources**
+  - QFRENCY - text-to-speech
+  
+- Kushimo Niyi **Ind + Sci4Dev**
+  - Mostly IT
+- Tanya Graham **Policy at Manchester**
+  - Impact lives globally
+  - Influence and challenge policy makers + influencers
+  - Dedicated office -> connecting policy makers and academics
+  - Publications with policy recommendations ("Gender", "On materials")
+  
+- The art of science advise to gvmnt
+  - Build Trust among: Politician - Policy maker - media/public- scientist
+  - Science informs but does not make policies
+  - Policy Cycle: White paper, Green paper, Consultations, Bills and Acts
